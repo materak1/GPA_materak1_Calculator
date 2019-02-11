@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_materak1_Calculator</string>
+    <string name="class_1_title">Class 1</string>
+    <string name="class_2_title">Class 2</string>
+    <string name="class_3_title">Class 3</string>
+    <string name="class_4_title">Class 4</string>
+    <string name="class_5_title">Class 5</string>
+    <string name="submit">Compute GPA</string>
+    <string name="result_title">GPA:</string>
+    <string name="gpa_hint">0-100</string>
+</resources>
